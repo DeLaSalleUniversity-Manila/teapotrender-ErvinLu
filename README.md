@@ -18,7 +18,11 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/teapotrender-ErvinLu/blob/master/device-2015-11-28-170220.png)
+
+Video Capture
+-----------
+(https://youtu.be/ZIIpRzlp8NQ)
 
 Support
 -------
